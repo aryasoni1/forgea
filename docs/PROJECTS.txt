@@ -1,0 +1,7 @@
+Wants to develop three backend-heavy, high-scale projects from scratch:
+1. Utkala Pro – a multi-tenant e-commerce platform.
+2. Real-Time Collaborative Workspace – a collaborative editor using operational transformation.
+3. Global API Gateway & Admin Portal – a multi-region API gateway with rate-limiting and admin controls.
+4.skillforge
+5.web POS
+6.World Map

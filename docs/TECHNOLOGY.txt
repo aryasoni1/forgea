@@ -1,0 +1,11 @@
+| Layer         | Tool                             | Why It's Great for Your Target Users                                        |
+| ------------- | -------------------------------- | --------------------------------------------------------------------------- |
+| **Frontend**  | ✅ Next.js                        | Industry-standard, fullstack ready, used at Vercel, TikTok, etc.            |
+| **UI**        | ✅ Tailwind CSS                   | Fast, responsive, beginner-friendly design system                           |
+| **Backend**   | ✅ Supabase                       | Realtime, Postgres, auth, storage — all managed. No backend setup headaches |
+| **Hosting**   | ✅ Vercel                         | Easy CI/CD, instant preview, free tier — used by all major projects         |
+| **Auth**      | ✅ Supabase Auth                  | JWT + Role-based access + social login — secure and simple                  |
+| **Storage**   | ✅ Supabase File Storage          | For uploads, notes, avatars — scalable                                      |
+| **Functions** | ✅ Supabase Edge Functions (Deno) | Easy to create APIs, like OpenAI calls                                      |
+| **AI/LLMs**   | ✅ OpenAI, LangChain              | Plug in smart features (flashcards, summaries)                              |
+| **DB**        | ✅ Postgres (via Supabase)        | Most trusted relational DB used in real jobs                                |
