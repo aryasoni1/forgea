@@ -45,7 +45,7 @@ const WaitlistForm: React.FC = () => {
             <input
               type="hidden"
               name="_next"
-              value="http://localhost:3000/thanks"
+              value="http://forgea.tech/thanks"
             />
             <input type="hidden" name="_honey" className="hidden" />
 
