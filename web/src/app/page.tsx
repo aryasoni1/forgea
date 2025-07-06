@@ -1,7 +1,6 @@
 import Hero from "@/components/Hero";
 import Problem from "@/components/Problem";
 import Solution from "@/components/Solution";
-import Projects from "@/components/Projects";
 import WaitlistForm from "@/components/WaitlistForm";
 import Footer from "@/components/Footer";
 
@@ -11,7 +10,6 @@ export default function Home() {
       <Hero />
       <Problem />
       <Solution />
-      {/* <Projects /> */}
       <WaitlistForm />
       <Footer />
     </main>
