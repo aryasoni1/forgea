@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
             <span className="text-white text-2xl font-bold">F</span>
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
-            Forgea
+            Forgea1
           </h1>
         </div>
 
